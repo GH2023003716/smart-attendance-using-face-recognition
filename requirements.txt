@@ -1,9 +1,0 @@
-flask
-dlib
-face_recognition
-pillow
-imutils
-numpy
-opencv-python
-h5py
-scikit-learn
