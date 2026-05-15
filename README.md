@@ -106,20 +106,12 @@ python face_api.py
 
 # Screenshots
 
-## Face Dataset Generation
-
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/4b9fd68c-29d4-4580-a2ac-d2fb2a5f5750" />
-
 
 ## Model Training
 
 <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2ed8b42d-eb26-41ae-bcb7-d563215ce0a6" />
 <img width="1920" height="1080" alt="Screenshot (8) - Copy" src="https://github.com/user-attachments/assets/a31b0fc8-50e1-47f1-9ffe-74180190474c" />
 
-
-## Face Recognition Detection
-
-<img width="576" height="1280" alt="WhatsApp Image 2026-05-14 at 9 25 43 PM" src="https://github.com/user-attachments/assets/ee075c28-fdf9-437b-b2ed-d9248dfb9053" />
 
 
 ## Attendance CSV Output
@@ -138,9 +130,6 @@ python face_api.py
 * Live attendance analytics
 
 
-# Important Note
-
-Only personal dataset images were uploaded publicly in this repository to maintain privacy.
 
 
 # Author
